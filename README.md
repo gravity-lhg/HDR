@@ -13,17 +13,17 @@
 
 #### File Description
 
-- main.py	The main function file provides an interface for the GUI, including tasks such as image loading and each task reasoning.
-- hdr.py    GUI file.
-- paintBoard.py    The paintboard file, which provides the GUI to display and refresh the paintboard module.
-- pca.py     PCA implementation module, including PCA class and its member functions.
+- *main.py*&emsp;The main function file provides an interface for the GUI, including tasks such as image loading and each task reasoning.
+- *hdr.py*&emsp;GUI file.
+- *paintBoard.py*&emsp;The paintboard file, which provides the GUI to display and refresh the paintboard module.
+- *pca.py*&emsp;PCA implementation module, including PCA class and its member functions.
   - Due to the sorting computation of larger matrices, It will take a long time in the first training. Intermediate files of npy type will be saved.
-- bayes.py    Bayes implementation module, including Bayes class and its member functions.
+- *bayes.py*&emsp;Bayes implementation module, including Bayes class and its member functions.
   - Intermediate files of npy type will be saved.
-- cnn_model.py    CNN implementation module, including the structure of the classifier and the forward function.
+- *cnn_model.py*&emsp;CNN implementation module, including the structure of the classifier and the forward function.
   - The model is implemented with **2 conv** and **3 fc**, and the test accuracy is about 98.5%.
-- cnn.py    CNN inference module, including test set inference and single image inference functions.
-- mnistCls_net_param.pkl    Classifier parameter file.
+- *cnn.py*&emsp;CNN inference module, including test set inference and single image inference functions.
+- *mnistCls_net_param.pkl*&emsp;Classifier parameter file.
 
 #### How to Run
 
