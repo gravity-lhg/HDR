@@ -37,7 +37,6 @@ Once you have downloaded the file, run the following command:
 #### GUI display effect
 
 <center>
-    <center>GUI display effect</center>
     <img width = '450' src ="./GUI.png"/>
 </center>
 
